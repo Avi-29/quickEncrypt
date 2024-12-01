@@ -6,7 +6,7 @@ setup(
     description="A simple library for encrypting and decrypting text and files.",
     author="Avishek Agarwla",
     author_email="avigreat29@gmail.com.com",
-    url="https://github.com/yourusername/quick_encrypt",  # Update with your repository URL
+    url="https://github.com/Avi-29/quickEncrypt.git",  # Update with your repository URL
     packages=find_packages(),
     install_requires=[
         "cryptography>=41.0.3",  # Dependency for encryption
